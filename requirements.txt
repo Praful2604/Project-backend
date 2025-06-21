@@ -1,0 +1,6 @@
+flask
+face_recognition
+numpy
+request
+werkzeug
+flask-cors
