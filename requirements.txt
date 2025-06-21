@@ -1,6 +1,6 @@
 flask
 face_recognition
 numpy
-request
+requests
 werkzeug
 flask-cors
